@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Trayectoria SYSTEM "Trayectoria.dtd">
+
+<trayectoria>
+	<cables>
+		<cable nombre="Calibre 6" tipo="Eléctrico" diametro_exterior="4.115" area="13.30">
+			<numero>1</numero>
+			<area_total>13.30</area_total>
+		</cable>
+		<cable nombre="Categoria 6" tipo="Par trenzado" diametro_exterior="5.8" area="26.42">
+			<numero>1</numero>
+			<area_total>26.42</area_total>
+		</cable>
+		<cable nombre="Categoria 5e" tipo="Par trenzado" diametro_exterior="4.5" area="15.90">
+			<numero>5</numero>
+			<area_total>79.52</area_total>
+		</cable>
+		<suma>7</suma>
+		<area>119.24</area>						
+	</cables>
+	<conducto>
+		<tubo nombre="Tuberia Conduit 1/2" tipo="PVC conduit pesado" tamano_comercial="1/2''" diametro_interior="18.2" area="260.16" porcentaje="53" area_util="137.88">
+		</tubo>
+		<canaleta></canaleta>
+		<charola></charola>
+	</conducto>
+</trayectoria>
